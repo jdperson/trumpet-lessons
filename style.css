@@ -1,0 +1,23 @@
+#hero {
+  display: flex;
+  margin: 5vw 17vw 3vw 7vw;
+}
+
+#hero img {
+  width: 400px;
+  height: 300px;
+}
+
+main {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+}
+
+.price-wrapper {
+  display: flex;
+}
+
+.package-container {
+  margin: 1vw;
+}
